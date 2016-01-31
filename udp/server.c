@@ -1,3 +1,7 @@
+// =====================================
+// Description: simple tcp server 
+// Author: Brandon Bluemner
+// =====================================
 #include <stdio.h>
 #include <sys/socket.h>
 #include <netinet/in.h>
